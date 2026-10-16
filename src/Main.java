@@ -1,0 +1,4 @@
+void main() {
+    Organizador.organize();
+}
+
